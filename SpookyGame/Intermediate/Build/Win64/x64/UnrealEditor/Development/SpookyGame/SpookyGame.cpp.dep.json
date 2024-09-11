@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\plugg\\aibu\\spooky-game\\spookygame\\source\\spookygame\\spookygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\x64\\spookygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spookygame\\definitions.spookygame.h",
+            "c:\\plugg\\aibu\\spooky-game\\spookygame\\source\\spookygame\\spookygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

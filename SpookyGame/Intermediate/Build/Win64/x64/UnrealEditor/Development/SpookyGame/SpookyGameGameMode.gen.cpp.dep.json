@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\unrealeditor\\inc\\spookygame\\uht\\spookygamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\x64\\spookygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spookygame\\definitions.spookygame.h",
+            "c:\\plugg\\aibu\\spooky-game\\spookygame\\source\\spookygame\\spookygamegamemode.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\plugg\\programs\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\plugg\\aibu\\spooky-game\\spookygame\\intermediate\\build\\win64\\unrealeditor\\inc\\spookygame\\uht\\spookygamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

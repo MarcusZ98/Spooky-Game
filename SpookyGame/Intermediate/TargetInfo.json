@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpookyGame",
+			"Path": "..\\Source\\SpookyGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpookyGameEditor",
+			"Path": "..\\Source\\SpookyGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

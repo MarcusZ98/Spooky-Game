@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpookyGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\SpookyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGame.init.gen.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGameCharacter.gen.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGameGameMode.gen.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGame.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGameCharacter.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\SpookyGameGameMode.cpp.obj"
+"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\Default.rc2.res"
+/OUT:"C:\Plugg\AIBU\Spooky-Game\SpookyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpookyGame\UnrealEditor-SpookyGame.lib"
