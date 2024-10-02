@@ -127,5 +127,9 @@ void ASpookyGameCharacter::Look(const FInputActionValue& Value)
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);
 
+		// FRotator NewRotator = GetActorRotation();
+		// NewRotator.Yaw += LookAxisVector.X;
+		// SetActorRotation(NewRotator);
+
 	}
 }
