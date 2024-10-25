@@ -100,18 +100,18 @@ void ASpookyGameCharacter::Move(const FInputActionValue& Value)
 
 	if (Controller != nullptr)
 	{
-		// find out which way is forward
-		const FRotator Rotation = Controller->GetControlRotation();
-		const FRotator YawRotation(0, Rotation.Yaw, 0);
-
-		// get forward vector
-		const FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-	
-		// get right vector 
-		const FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
-
+		// // find out which way is forward
+		// const FRotator Rotation = Controller->GetControlRotation();
+		// const FRotator YawRotation(0, Rotation.Yaw, 0);
+		//
+		// // get forward vector
+		// const FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
+		//
+		// // get right vector 
+		// const FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
+		
 		// add movement 
-		AddMovementInput(ForwardDirection, MovementVector.Y);
+		AddMovementInput(GetActorForwardVector(), MovementVector.Y);
 		//AddMovementInput(RightDirection, MovementVector.X);
 	}
 }
@@ -124,12 +124,12 @@ void ASpookyGameCharacter::Look(const FInputActionValue& Value)
 	if (Controller != nullptr)
 	{
 		// add yaw and pitch input to controller
-		AddControllerYawInput(LookAxisVector.X);
-		AddControllerPitchInput(LookAxisVector.Y);
+		// AddControllerYawInput(LookAxisVector.X * playerRotationSpeed);
+		// AddControllerPitchInput(LookAxisVector.Y * playerRotationSpeed);
 
-		// FRotator NewRotator = GetActorRotation();
-		// NewRotator.Yaw += LookAxisVector.X;
-		// SetActorRotation(NewRotator);
+		FRotator NewRotator = GetActorRotation();
+		NewRotator.Yaw += LookAxisVector.X;
+		SetActorRotation(NewRotator);
 
 	}
 }

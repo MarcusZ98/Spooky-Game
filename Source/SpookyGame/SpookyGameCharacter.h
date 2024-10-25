@@ -65,6 +65,8 @@ protected:
 	virtual void BeginPlay();
 
 public:
+	UPROPERTY(BlueprintReadWrite,EditAnywhere)
+	float playerRotationSpeed = 0.5f;
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/
