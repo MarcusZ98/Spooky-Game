@@ -20,6 +20,9 @@ public:
 	void ReadIniFile();
 
 	void SetLogPath();
+	
+	UFUNCTION(BlueprintCallable, Category = "Logging")
+	bool WriteToFile(FString LogString);
 
 	FString LogFilePath;
 

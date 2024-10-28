@@ -36,6 +36,20 @@ void USG_GameInstance::SetLogPath()
 {
 	LogFilePath = FPlatformProperties::RequiresCookedData() ?
 		FPaths::Combine(FPaths::ProjectSavedDir(), TEXT("Logs/CustomLog.txt")) :
-		FPaths::ProjectLogDir() + "SpookyGame.txt";
+		FPaths::ProjectConfigDir() + "CustomLog.txt";
 		
+}
+
+
+bool USG_GameInstance::WriteToFile(FString LogString)
+{
+	USG_GameInstance* GI = Cast<USG_GameInstance>(GetWorld()->GetGameInstance());
+	FString Path = GI->LogFilePath;
+	
+	if(!FFileHelper::SaveStringToFile(LogString, *Path))
+	{
+		return false;
+	}
+
+	return true;
 }
