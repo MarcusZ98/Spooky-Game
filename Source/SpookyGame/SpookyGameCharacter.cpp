@@ -124,8 +124,8 @@ void ASpookyGameCharacter::Look(const FInputActionValue& Value)
 	if (Controller != nullptr)
 	{
 		// add yaw and pitch input to controller
-		// AddControllerYawInput(LookAxisVector.X * playerRotationSpeed);
-		// AddControllerPitchInput(LookAxisVector.Y * playerRotationSpeed);
+		AddControllerYawInput(LookAxisVector.X * playerRotationSpeed);
+		AddControllerPitchInput(LookAxisVector.Y * playerRotationSpeed);
 
 		FRotator NewRotator = GetActorRotation();
 		NewRotator.Yaw += LookAxisVector.X;
