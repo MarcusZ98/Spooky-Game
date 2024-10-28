@@ -11,12 +11,16 @@ void USG_GameInstance::Init()
 
 void USG_GameInstance::ReadIniFile()
 {
+	// for Editor
 	FString Path = FPaths::ProjectConfigDir() + "CustomConfig.ini";
+
+	// for Packaged Game
+	//FString Path = FPaths::Combine(FPaths::ProjectSavedDir(), TEXT("Config/Windows/CustomConfig.ini"));
 
 	if(GConfig)
 	{
 		//Audio
-		GConfig->GetFloat(TEXT("Audio"), TEXT("MasterVolumeMultiplier"), MasterVolumeMultiplier, Path);
+		GConfig->GetFloat(TEXT("Audio"), TEXT("UIVolumeMultiplier"), MasterVolumeMultiplier, Path);
 		GConfig->GetFloat(TEXT("Audio"), TEXT("MusicVolumeMultiplier"), MusicVolumeMultiplier, Path);
 		GConfig->GetFloat(TEXT("Audio"), TEXT("SFXVolumeMultiplier"), SFXVolumeMultiplier, Path);
 		GConfig->GetFloat(TEXT("Audio"), TEXT("VoiceVolumeMultiplier"), VoiceVolumeMultiplier, Path);

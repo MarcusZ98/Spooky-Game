@@ -25,7 +25,7 @@ public:
 
 	//Audio
 	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float MasterVolumeMultiplier;
+	float UIVolumeMultiplier;
 
 	UPROPERTY(BlueprintReadOnly, Category = "Congig")
 	float MusicVolumeMultiplier;
