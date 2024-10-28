@@ -19,28 +19,27 @@ public:
 
 	void ReadIniFile();
 
+	void SetLogPath();
+	
+	UFUNCTION(BlueprintCallable, Category = "Logging")
+	bool WriteToFile(FString LogString);
+
+	FString LogFilePath;
+
 	//////////////////////////////////////////////////////////////////////////
 	//CONFIG VARIABLES
 	//////////////////////////////////////////////////////////////////////////
 
-	//Audio
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float MasterVolumeMultiplier;
-
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float MusicVolumeMultiplier;
-
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float SFXVolumeMultiplier;
-
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float VoiceVolumeMultiplier;
+	//Enemy
+	UPROPERTY(BlueprintReadOnly, Category = "Config")
+	float EnemyHealth = 3;
+	
 
 	//Controller
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float LookSpeedMultiplier;
+	UPROPERTY(BlueprintReadOnly, Category = "Config")
+	float LookSpeedMultiplier = 1;
 	
-	UPROPERTY(BlueprintReadOnly, Category = "Congig")
-	float WalkSpeedMultiplier;
+	UPROPERTY(BlueprintReadOnly, Category = "Config")
+	float WalkSpeedMultiplier = 1;
 	
 };
