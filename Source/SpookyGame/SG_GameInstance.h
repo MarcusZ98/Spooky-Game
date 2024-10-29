@@ -41,5 +41,9 @@ public:
 	
 	UPROPERTY(BlueprintReadOnly, Category = "Config")
 	float WalkSpeedMultiplier = 1;
+
+	//Dialogue
+	UPROPERTY(BlueprintReadOnly, Category = "Config")
+	float DialogueDelay = 3;
 	
 };

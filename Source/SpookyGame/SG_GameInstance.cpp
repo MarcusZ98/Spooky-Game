@@ -26,6 +26,9 @@ void USG_GameInstance::ReadIniFile()
 		//Controller
 		GConfig->GetFloat(TEXT("Controller"), TEXT("LookSpeedMultiplier"), LookSpeedMultiplier, Path);
 		GConfig->GetFloat(TEXT("Controller"), TEXT("WalkSpeedMultiplier"), WalkSpeedMultiplier, Path);
+
+		//Dialogue
+		GConfig->GetFloat(TEXT("Dialogue"), TEXT("DialogueDelay"), DialogueDelay, Path);
 	}
 
 
