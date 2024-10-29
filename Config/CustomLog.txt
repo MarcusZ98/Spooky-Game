@@ -33,3 +33,207 @@
 [2024-10-29 14:57:35]  [Level: Level_5] Player destroyed artifact
 [2024-10-29 14:58:09]  [Level: Level_5] Player destroyed artifact
 [2024-10-29 14:58:09]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:05:19]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:05:41]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 15:05:42]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 15:05:42]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 15:05:43]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 15:05:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 15:05:49]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 15:05:50]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 15:06:01]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 15:06:02]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 15:06:04]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 15:08:21]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:08:21]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:08:22]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:08:23]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:08:48]  [Level: Level_3] Completed Piano
+[2024-10-29 15:09:08]  [Level: Level_3] Player recived Teddy
+[2024-10-29 15:09:20]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 15:10:42]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:10:43]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:10:43]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:10:44]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:10:48]  [Level: Level_3] Completed Piano
+[2024-10-29 15:10:55]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_ThisMelodyTakesMeBack
+[2024-10-29 15:10:55]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_Zach-ItsABeutifulMelody
+[2024-10-29 15:10:57]  [Level: Level_3] Player recived Teddy
+[2024-10-29 15:10:58]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_ThisTeddybear
+[2024-10-29 15:10:59]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_Zach-HowDoYouKnowThat
+[2024-10-29 15:10:59]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_HesMyBrother
+[2024-10-29 15:11:00]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 15:11:11]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:11:21]  [Level: Level_2] SkipLine DA_lvl2_RadioInteract_Dialogue ;TheRadioKeepsPlayingStatic
+[2024-10-29 15:11:22]  [Level: Level_2] SkipLine DA_lvl2_RadioInteract_Dialogue ;YeahForTheLeftKnob
+[2024-10-29 15:11:27]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;IHearSomethingBehindThisDoor
+[2024-10-29 15:11:29]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;HmmTheOldChainedShipdoors
+[2024-10-29 15:11:30]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;TheresACompass
+[2024-10-29 15:11:57]  [Level: Level_2] Player unlocked door
+[2024-10-29 15:12:12]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:12:12]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:12:20]  [Level: Level_2] Glass broken
+[2024-10-29 15:12:26]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;IveNeverBeenDownHere
+[2024-10-29 15:12:27]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;ImNotSure
+[2024-10-29 15:12:32]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:12:32]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:12:35]  [Level: Level_5] SkipLine DA_lvl5_Ending_Dialogue ;WowMyCrystalOrb
+[2024-10-29 15:12:35]  [Level: Level_5] SkipLine DA_lvl5_Ending_Dialogue ;IsThisReallyWhatYouWant
+[2024-10-29 15:13:38]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:14:41]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:14:48]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 15:14:48]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 15:14:49]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 15:14:50]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 15:14:50]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 15:14:51]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 15:14:52]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 15:14:53]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 15:14:57]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 15:14:58]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 15:14:58]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 15:14:59]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 15:15:02]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00024_
+[2024-10-29 15:15:02]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00025_
+[2024-10-29 15:15:03]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00027_
+[2024-10-29 15:15:03]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00028_
+[2024-10-29 15:17:39]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:17:43]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 15:17:44]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 15:17:50]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 15:17:50]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 15:17:50]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 15:17:50]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 15:17:50]  [Level: Level_0] SkipLine DA_Dialogue_5 ;SFX_Geiger_Example
+[2024-10-29 15:17:51]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00024_
+[2024-10-29 15:17:51]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00025_
+[2024-10-29 15:17:51]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00027_
+[2024-10-29 15:17:51]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00028_
+[2024-10-29 15:20:10]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:20:16]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 15:20:20]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 15:20:20]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 15:20:20]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 15:20:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 15:20:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 15:20:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 15:20:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 15:20:22]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 15:20:22]  [Level: Level_0] SkipLine DA_Dialogue_4 ;DL4_00015_
+[2024-10-29 15:20:24]  [Level: Level_0] SkipLine DA_Dialogue_4 ;DL4_00018_
+[2024-10-29 15:20:24]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 15:20:25]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 15:20:25]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 15:20:27]  [Level: Level_0] SkipLine DA_Dialogue_5 ;SFX_Geiger_Example
+[2024-10-29 15:20:27]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00024_
+[2024-10-29 15:20:27]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00025_
+[2024-10-29 15:20:28]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00027_
+[2024-10-29 15:20:28]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00028_
+[2024-10-29 15:21:08]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:21:09]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:21:09]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:21:09]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:21:13]  [Level: Level_3] Completed Piano
+[2024-10-29 15:21:20]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_ThisMelodyTakesMeBack
+[2024-10-29 15:21:20]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_Zach-ItsABeutifulMelody
+[2024-10-29 15:21:26]  [Level: Level_3] Player recived Teddy
+[2024-10-29 15:21:27]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_ThisTeddybear
+[2024-10-29 15:21:28]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_Zach-HowDoYouKnowThat
+[2024-10-29 15:21:31]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 15:21:55]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:21:56]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:21:56]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:22:05]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;HmmTheOldChainedShipdoors
+[2024-10-29 15:22:06]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;TheresACompass
+[2024-10-29 15:22:13]  [Level: Level_2] Player unlocked door
+[2024-10-29 15:22:25]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:22:25]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:22:31]  [Level: Level_2] Glass broken
+[2024-10-29 15:22:37]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;IveNeverBeenDownHere
+[2024-10-29 15:22:37]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;WhyNot
+[2024-10-29 15:22:38]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;ImNotSure
+[2024-10-29 15:22:41]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:22:41]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:22:44]  [Level: Level_5] SkipLine DA_lvl5_Ending_Dialogue ;WowMyCrystalOrb
+[2024-10-29 15:22:44]  [Level: Level_5] SkipLine DA_lvl5_Ending_Dialogue ;IsThisReallyWhatYouWant
+[2024-10-29 15:22:44]  [Level: Level_5] SkipLine DA_lvl5_Ending_Dialogue ;YesImReady
+[2024-10-29 15:25:13]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:25:14]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:25:14]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:25:19]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;IHearSomethingBehindThisDoor
+[2024-10-29 15:25:20]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;HmmTheOldChainedShipdoors
+[2024-10-29 15:25:20]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;TheresACompass
+[2024-10-29 15:25:34]  [Level: Level_2] Player unlocked door
+[2024-10-29 15:25:44]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:25:44]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:25:45]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:25:45]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;ItLooksFunctional
+[2024-10-29 15:25:53]  [Level: Level_2] Glass broken
+[2024-10-29 15:26:07]  [Level: Level_2] Player lost combat
+[2024-10-29 15:29:48]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:29:48]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:29:49]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:30:09]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;IHearSomethingBehindThisDoor
+[2024-10-29 15:30:09]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;HmmTheOldChainedShipdoors
+[2024-10-29 15:30:09]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;TheresACompass
+[2024-10-29 15:30:16]  [Level: Level_2] Player unlocked door
+[2024-10-29 15:30:52]  [Level: Level_2] Plyer won combat
+[2024-10-29 15:31:11]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:31:18]  [Level: Level_2] Glass broken
+[2024-10-29 15:33:11]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;WhyNot
+[2024-10-29 15:33:11]  [Level: Level_5] SkipLine DA_lvl5_Init_Dialogue ;ImNotSure
+[2024-10-29 15:33:16]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:33:16]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:34:41]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:34:41]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:34:42]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:34:42]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:34:48]  [Level: Level_3] Completed Piano
+[2024-10-29 15:34:55]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_ThisMelodyTakesMeBack
+[2024-10-29 15:34:55]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_Zach-ItsABeutifulMelody
+[2024-10-29 15:35:02]  [Level: Level_3] Player recived Teddy
+[2024-10-29 15:35:03]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_ThisTeddybear
+[2024-10-29 15:35:04]  [Level: Level_3] SkipLine DA_lvl3_HasTeddy_Dialogue ;SFX_lvl3_Zach-HowDoYouKnowThat
+[2024-10-29 15:35:07]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 15:36:49]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:36:50]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:37:24]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:39:11]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 15:40:04]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:40:04]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:40:04]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:40:44]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:40:45]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:40:45]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:41:25]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:41:25]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:41:52]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;IHearSomethingBehindThisDoor
+[2024-10-29 15:41:53]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;HmmTheOldChainedShipdoors
+[2024-10-29 15:41:53]  [Level: Level_2] SkipLine DA_lvl2_DoorInteact_Dialogue ;TheresACompass
+[2024-10-29 15:47:05]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:47:05]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:47:06]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:47:06]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:47:56]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:47:56]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:47:57]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:47:57]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:50:15]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:50:16]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:50:16]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:50:16]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:51:36]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_ThisWasTheNursery
+[2024-10-29 15:51:36]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_Zach-AlrightButHow
+[2024-10-29 15:51:36]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;SFX_lvl3_LetsTakeALookAround
+[2024-10-29 15:51:37]  [Level: Level_3] SkipLine DA_lvl3_Init_Dialogue ;DL2_00012_
+[2024-10-29 15:51:54]  [Level: Level_3] Completed Piano
+[2024-10-29 15:52:01]  [Level: Level_3] SkipLine DA_lvl3_Completed-Puzzle_Dialogue1 ;SFX_lvl3_Zach-ItsABeutifulMelody
+[2024-10-29 15:52:05]  [Level: Level_3] Player recived Teddy
+[2024-10-29 15:52:14]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 15:52:21]  [Level: Level_3] SkipLine DA_lvl3_HasGivenTeddy_Dialogue ;SFX_lvl3_FinallyHeCanRest
