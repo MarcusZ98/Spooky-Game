@@ -1,6 +1,60 @@
 
+<<<<<<< Updated upstream
 [2024-10-29 14:05:51]  [Level: Level_2] Player interacted with ship wheel
 [2024-10-29 14:06:00]  [Level: Level_2] Glass broken
 [2024-10-29 14:08:14]  [Level: Level_3] Completed Piano
 [2024-10-29 14:08:23]  [Level: Level_3] Player recived Teddy
 [2024-10-29 14:08:26]  [Level: Level_3] Player gives teddy to baby
+=======
+[2024-10-29 14:14:47]  [Level: Level_2] Began adjusting radio
+[2024-10-29 14:15:39]  [Level: Level_2] Player unlocked door
+[2024-10-29 14:19:49]  [Level: Level_2] Player unlocked door
+[2024-10-29 14:28:32]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:34:05]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:35:17]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:39:30]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:05]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:06]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:07]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:07]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:07]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:07]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:08]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:08]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:08]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:10]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:10]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:43:10]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:44:59]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:46:25]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:46:25]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:53:11]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:54:07]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:54:08]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:54:31]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:55:59]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:56:00]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:56:30]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:56:55]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:57:33]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:57:35]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:58:09]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 14:58:09]  [Level: Level_5] Player destroyed artifact
+[2024-10-29 15:36:37]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:36:39]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:36:39]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:36:45]  [Level: Level_2] Glass broken
+[2024-10-29 15:37:16]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:37:16]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:37:17]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:37:17]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:37:17]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:37:23]  [Level: Level_2] Glass broken
+[2024-10-29 15:37:49]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;ThisWasMyUnclesRoom
+[2024-10-29 15:37:49]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;QuiteAFamilyYouHad
+[2024-10-29 15:37:49]  [Level: Level_2] SkipLine DA_lvl2_Init_Dialogue ;YeahIGuess
+[2024-10-29 15:37:50]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 15:37:50]  [Level: Level_2] SkipLine DA_lvl2_Shipwheel-Inteact_Dialogue ;CheckOutThisOldShipwheel
+[2024-10-29 15:37:55]  [Level: Level_2] Glass broken
+[2024-10-29 15:37:59]  [Level: Level_2] SkipLine DA_lvl2_BreakGlass_Dialogue ;None
+>>>>>>> Stashed changes
