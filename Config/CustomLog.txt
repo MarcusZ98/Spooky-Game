@@ -4,3 +4,84 @@
 [2024-10-29 14:08:14]  [Level: Level_3] Completed Piano
 [2024-10-29 14:08:23]  [Level: Level_3] Player recived Teddy
 [2024-10-29 14:08:26]  [Level: Level_3] Player gives teddy to baby
+[2024-10-29 14:36:26]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:36:28]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:36:34]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:36:35]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:36:38]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 14:36:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 14:36:40]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 14:36:43]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 14:36:43]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 14:36:44]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 14:36:44]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 14:36:44]  [Level: Level_0] SkipLine DA_Dialogue_5 ;SFX_Geiger_Example
+[2024-10-29 14:36:44]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00024_
+[2024-10-29 14:36:44]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00025_
+[2024-10-29 14:36:45]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00027_
+[2024-10-29 14:36:45]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00028_
+[2024-10-29 14:38:11]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:38:14]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:38:22]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 14:38:22]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 14:38:22]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 14:38:22]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 14:38:23]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 14:38:23]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 14:38:25]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 14:38:25]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 14:38:45]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 14:38:45]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 14:38:46]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 14:38:48]  [Level: Level_0] OpenLog
+[2024-10-29 14:43:25]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:43:26]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 14:43:30]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 14:43:31]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 14:43:33]  [Level: Level_0] OpenLog
+[2024-10-29 14:44:12]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:44:14]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:44:19]  [Level: Level_0] OpenLog
+[2024-10-29 14:45:15]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:45:16]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:45:20]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 14:45:20]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 14:45:21]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 14:45:26]  [Level: Level_0] OpenLog
+[2024-10-29 14:46:31]  [Level: Level_0] %%%%%%%%%% NEW PLAY SESSION %%%%%%%%%%
+[2024-10-29 14:46:33]  [Level: Level_0] SkipLine DA_Dialogue_1 ;DL1_00002_
+[2024-10-29 14:46:37]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00003_
+[2024-10-29 14:46:37]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00004_
+[2024-10-29 14:46:37]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00005_
+[2024-10-29 14:46:37]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00006_
+[2024-10-29 14:46:37]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00007_
+[2024-10-29 14:46:38]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00008_
+[2024-10-29 14:46:39]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00009_
+[2024-10-29 14:46:40]  [Level: Level_0] SkipLine DA_Dialogue_2 ;DL2_00011_
+[2024-10-29 14:46:43]  [Level: Level_0] OpenLog
+[2024-10-29 14:47:05]  [Level: Level_0] CloseLog
+[2024-10-29 14:47:14]  [Level: Level_0] OpenLog
+[2024-10-29 14:47:19]  [Level: Level_0] CloseLog
+[2024-10-29 14:47:26]  [Level: Level_0] SkipLine DA_Dialogue_3 ;DL4_00017_
+[2024-10-29 14:47:26]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00021_
+[2024-10-29 14:47:27]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00022_
+[2024-10-29 14:47:28]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00023_
+[2024-10-29 14:47:28]  [Level: Level_0] SkipLine DA_Dialogue_5 ;SFX_Geiger_Example
+[2024-10-29 14:47:32]  [Level: Level_0] SkipLine DA_Dialogue_5 ;DL5_00024_
+[2024-10-29 14:47:35]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00027_
+[2024-10-29 14:47:36]  [Level: Level_0] SkipLine DA_Dialogue_6 ;DL6_00028_
