@@ -48,8 +48,26 @@ bool USG_GameInstance::WriteToFile(FString LogString)
 {
 	USG_GameInstance* GI = Cast<USG_GameInstance>(GetWorld()->GetGameInstance());
 	FString Path = GI->LogFilePath;
-	
-	if(!FFileHelper::SaveStringToFile(LogString, *Path))
+
+	// Get the current date and time
+	FString Timestamp = FDateTime::Now().ToString(TEXT("[%Y-%m-%d %H:%M:%S] "));
+
+	//Get level Name
+	FString LevelName = GetWorld()->GetMapName();
+	LevelName.RemoveFromStart(GetWorld()->StreamingLevelsPrefix);
+
+	// Prepend timestamp to the log string
+	LogString = FString::Printf(TEXT("%s [Level: %s] %s"), *Timestamp, *LevelName, *LogString);
+
+	// Check if we need to add a newline to the log
+	IPlatformFile& PlatformFile = FPlatformFileManager::Get().GetPlatformFile();
+	if (PlatformFile.FileExists(*Path))
+	{
+		LogString = "\n" + LogString; // Add newline if file exists
+	}
+
+	// Write to the file in append mode
+	if (!FFileHelper::SaveStringToFile(LogString, *Path, FFileHelper::EEncodingOptions::AutoDetect, &IFileManager::Get(), FILEWRITE_Append))
 	{
 		return false;
 	}

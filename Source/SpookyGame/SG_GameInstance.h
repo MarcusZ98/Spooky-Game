@@ -44,6 +44,6 @@ public:
 
 	//Dialogue
 	UPROPERTY(BlueprintReadOnly, Category = "Config")
-	float DialogueDelay = 3;
+	float DialogueDelay = 0;
 	
 };
