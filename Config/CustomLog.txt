@@ -1,0 +1,6 @@
+
+[2024-10-29 14:05:51]  [Level: Level_2] Player interacted with ship wheel
+[2024-10-29 14:06:00]  [Level: Level_2] Glass broken
+[2024-10-29 14:08:14]  [Level: Level_3] Completed Piano
+[2024-10-29 14:08:23]  [Level: Level_3] Player recived Teddy
+[2024-10-29 14:08:26]  [Level: Level_3] Player gives teddy to baby
